@@ -50,7 +50,7 @@
     "pretty-ms": "^7.0.0",
     "rosters": "0.0.1",
     "sade": "^1.7.4",
-    "test-results-parser": "^0.1.2"
+    "test-results-parser": "LApps-Approved-Actions/parser"
   },
   "devDependencies": {
     "c8": "^7.12.0",
